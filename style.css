@@ -45,7 +45,7 @@ footer {
 @media (max-width:768px) {
   body{
     margin: 50px 0px 0px 0px;
-    /* background-color:#d1efd1; */
+    background-color:#d1efd1;
   }
 
   h1{
@@ -71,7 +71,7 @@ footer {
 /* SECTION SEPERATION */
 @media (min-width:769px) and (max-width:992px){
   body{
-    /* background-color:#c0bff2; */
+    background-color:#c0bff2; 
     margin: 50px 20px 0px 20px;
   }
   h1{
@@ -108,7 +108,7 @@ footer {
 /* SECTION SEPERATION */
 @media (min-width:993px) {
   body{
-    /* background-color:#efd2ed; */
+    background-color:#efd2ed; 
   }
   .main{
     position: relative;;
